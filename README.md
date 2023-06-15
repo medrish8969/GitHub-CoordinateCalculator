@@ -1,7 +1,5 @@
 # Coordinate-Calculator
-Exercise for GEOG 728 Programming for Geographic Analysis at Kansas State University
-
-This is a test respository for a GitHub Classroom assignment.
+*Exercise for GEOG 728 Programming for Geographic Analysis at Kansas State University
 
 Edit the starter Python script <code>coord_calc.py</code> so that includes the following features. Your script should convert user-supplied geographic coordinates in DDMMSS format to DD.
 
