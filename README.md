@@ -1,5 +1,5 @@
 # Coordinate-Calculator
-*Exercise for GEOG 728 Programming for Geographic Analysis at Kansas State University
+*Exercise for GEOG 728 Programming for Geographic Analysis at Kansas State University*
 
 ### Instructions:
 
