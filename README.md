@@ -3,12 +3,12 @@
 
 ### Instructions:
 
-Using GitHub, GitHub Desktop, and Jupyter Notebooks to edit the starter Python Interactive Notebook file called <code>CoordinateCalculator.ipynb</code> so that user-supplied geographic coordinates in degrees-minutes-second (DDMMSS) format are converted to decimal degrees (DD).  Make sure that your code includes the following elements, features, and/or capabilities:
+Using GitHub, GitHub Desktop, and Jupyter Notebooks to edit the starter *Python Interactive Notebook* file called <code>CoordinateCalculator.ipynb</code> so that user-supplied geographic coordinates in degrees-minutes-second (DDMMSS) format are converted to decimal degrees (DD).  Make sure that your notebook includes the following elements, features, and/or capabilities:
 
 1. Requests and accepts user-supplied coordinates in DDMMSS format (e.g., 391120 or 39 11 20) using the Python <code>input()</code> function.
-2. Performs all necessary mathematical operations to convert to DD.
-3. Prints the resulting DD coordinates at a floating point number along with a friendly message.  For example, "Your final result is:  39.19 degrees".
-4. Includes key comments explaining what your code accomplishes.
+2. Performs all necessary mathematical operations to convert the input coordinate into DD as a floating point number.
+3. Prints the resulting DD coordinate at along with a friendly message.  For example, "Your final result is:  39.19 degrees".
+4. Incorporates several text blocks in Markdown format explaining what your Python code blocks accomplish..
 
 ## Challenge:
 
