@@ -1,4 +1,4 @@
-# Coordinate-Calculator
+# GitHub-CoordinateCalculator
 *Exercise for GEOG 728 Programming for Geographic Analysis at Kansas State University*
 
 ### Instructions:
