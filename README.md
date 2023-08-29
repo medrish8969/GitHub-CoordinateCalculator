@@ -16,4 +16,4 @@ See if you can find and apply the built-in Python function that will automatical
 
 ## Submission:
 
-Commit your code changes to your repository on GitHub.
+Commit your code changes to your assignment repository on GitHub.
